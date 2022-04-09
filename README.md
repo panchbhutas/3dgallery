@@ -1,5 +1,5 @@
 # 3dgallery
 3D object viewing gallery
 
-Developed by Panchbhutas Technologies LLP.
+Author: Diker Pagui, Director at Panchbhutas Technologies LLP.
 Website: panchbhutas.in
